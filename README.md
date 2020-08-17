@@ -154,4 +154,11 @@
       <p>北森</p>
     </a>
   </td>
+</tr><tr>
+  <td align="center">
+    <a href="infos/ThoughtWorks.md">
+      <img src="assets/logo-ThoughtWorks.jpg" width="140px">
+      <p>ThoughtWorks</p>
+    </a>
+  </td>
 </table>
